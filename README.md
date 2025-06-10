@@ -1,3 +1,5 @@
+**Please see the actual Astaroth code at** [https://bitbucket.org/jpekkila/astaroth/](url)  
+
 # Astaroth
 An experimental GPU code for computational hydrodynamics using 6th-order finite difference method
 
